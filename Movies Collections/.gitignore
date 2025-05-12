@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Do not ignore these files/folders
+!.gitignore
+!index.js
+!src/
+!src/**/*
