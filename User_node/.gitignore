@@ -1,0 +1,8 @@
+node_modules/# Ignore everything
+*
+
+# But not these files/folders
+!.gitignore
+!index.js
+!src/
+!src/**/*
